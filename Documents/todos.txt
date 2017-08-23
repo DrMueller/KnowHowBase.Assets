@@ -1,0 +1,43 @@
+# General
+- Define Domain Model
+- Set up Azure
+- Set up deployment scripts
+
+
+# Features
+## Edit
+- Currently, only the Markdown should be editable, the rest is at the moment predefined via Initial Load
+
+## Security
+- Login needed before editing allowed
+- Server side check for login
+- Currently hardcoded pw and user on the server
+
+## Initial Load
+- Write all Documents into Markdown
+- Tag them
+
+## Backups der DAten
+
+
+## Tagging
+- Concept prototype
+
+
+## Documents
+- Test Markdown in HTML
+- Possibility to add Pictures
+
+
+#Client
+## General
+- Define View Mockups
+
+# Server
+## General
+- Define Use-Cases
+- Add MongoDB Access
+
+
+
+General, T-SQL, Oracle, MongoDB
